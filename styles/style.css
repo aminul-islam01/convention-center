@@ -1,0 +1,40 @@
+
+.banner-title{
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+.banner-discribtion{
+    color: #fff;
+}
+.title {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.sub-title {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+ul{
+    padding-left: 0;
+}
+.list li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.pricing-table >h2{
+    margin-bottom: 100px;
+}
+.p-table-item{
+    transition: .5s linear;
+    border-radius: 10px;
+}
+.p-table-item:hover{
+    transform: scale(1.15);
+    border-radius: 20px;
+    margin-top: -30px;
+    color: #fff;
+    background-color: blue;
+}
